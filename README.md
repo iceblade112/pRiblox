@@ -8,4 +8,5 @@ There still are some bugs, but just post an issue if there is, and we'll try our
 Current authors:
 
 Digpoe - Founder, Coder of JoinServ and Chatty plugins, Tester
+
 Looah  - Tester, Coder, Founder
